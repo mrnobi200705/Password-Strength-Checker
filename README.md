@@ -105,21 +105,11 @@ python3 benchmark_password_tool.py --use-saved-dataset
 
 ## Screenshots
 
-Add your screenshots in a `screenshots/` folder, then they will render on GitHub.
+### Main Interface
 
-Suggested files:
+Shows the password analysis dashboard, feedback panel, generator, and attack demo controls.
 
-- `screenshots/main-ui.png`
-- `screenshots/attack-progress.png`
-- `screenshots/strength-feedback.png`
-
-Markdown preview links:
-
-```md
-![Main UI](screenshots/main-ui.png)
-![Attack Progress](screenshots/attack-progress.png)
-![Strength Feedback](screenshots/strength-feedback.png)
-```
+![Password Toolkit Main UI](screenshots/main-ui.png)
 
 ## Troubleshooting
 
