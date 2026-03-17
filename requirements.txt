@@ -1,0 +1,6 @@
+# Core app: no external dependencies
+# Uses Python standard library only.
+
+# Optional build/security tools
+pyinstaller==6.12.0
+pyarmor==9.0.7
